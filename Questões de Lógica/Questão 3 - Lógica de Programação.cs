@@ -3,7 +3,7 @@ using System.Linq;
 
 class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
         // Questão 3 de Lógica de Programação 26/06/2026
         double[] numeros = new double[3];
